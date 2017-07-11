@@ -1,5 +1,5 @@
 # Minesweeper
-Minesweeper clone written in Java
+Minesweeper clone using Swing graphics.
 
 ## Instructions
 Compile and run Mine.java.
